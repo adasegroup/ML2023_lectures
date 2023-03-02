@@ -12,6 +12,7 @@ This is a repository containing the lectures for the Skoltech's Machine Learning
 - LECTURE 8 (16.02) - Multi-class predictions, Naive Bayes
 - LECTURE 9 (17.02) - Model and feature selection
 - LECTURE 10 (21.02) - Artificial Neural Networks
+- LECTURE 11 (02.03) - Deep Artificial Neural Networks
 
 ## Course Description:
 The course is a general introduction to machine learning (ML) and its applications. It covers fundamental topics in ML and describes the most important algorithmic basis and tools. It also provides important aspects of the algorithms’ applications. The course starts with an overview of canonical ML applications and problems, learning scenarios, etc. Next, we discuss in-depth fundamental ML algorithms for classification, regression, clustering, etc., their properties, and practical applications. The last part of the course is devoted to advanced ML topics such as Gaussian processes, neural networks. Within practical sections, we show how to use the ML methods and tune their hyper-parameters. Home assignments include the application of existing algorithms to solve data analysis problems. The students are assumed to be familiar with basic concepts in linear algebra, probability, real analysis, optimization, and python programming.
